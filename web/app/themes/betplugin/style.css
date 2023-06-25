@@ -1,0 +1,21 @@
+/*
+Theme Name:         Liverattning Theme
+Theme URI:          https://roots.io/sage/
+Description:        Liverattning
+Version:            0.0.1
+Author:             Roots
+Author URI:         https://roots.io/
+Text Domain:        sage
+License:            MIT License
+License URI:        https://opensource.org/licenses/MIT
+Requires PHP:       8.2
+Requires at least:  5.9
+*/
+
+.product {
+    display: flex;
+}
+
+.product img {
+    width: 40px;
+}

@@ -1,0 +1,23 @@
+@import 'tailwindcss/base';
+
+@import 'main-menu.css';
+
+@import 'tailwindcss/components';
+
+@import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('../fonts/proximanova_regular-webfont.woff2') format('woff2'),
+    url('../fonts/proximanova_regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('../fonts/proximanova_bold-webfont.woff2') format('woff2'),
+    url('../fonts/proximanova_bold-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "acf/testimonial",
+  "title": "Testimonial",
+  "description": "A custom testimonial block.",
+  "category": "formatting",
+  "icon": "admin-comments",
+  "keywords": [
+    "testimonial",
+    "quote"
+  ],
+  "supports": {
+    "align": true,
+    "anchor": true,
+    "ariaLabel": true,
+    "alignWide": true,
+    "className": true,
+    "html": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "block-example.php"
+  }
+}
